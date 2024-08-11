@@ -1,4 +1,4 @@
-flask
+Flask
 numpy
-pandas
+pandas==1.4.3
 gunicorn
